@@ -88,7 +88,7 @@ batchRunOlist.py: a python script to run the experiments on olist datasets
 
 
 
-Related other resources
+Related resources
 ------------------------
 We have maintained a paper list of the studies on the shared mobility service (e.g., ridesharing, food delivery and urban logistics). [link](https://github.com/BUAA-BDA/ridesharing-paperlist)
 
