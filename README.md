@@ -30,7 +30,7 @@ gcc/g++ version: 7.4.0
 
 OS: Ubuntu
 
-### Compile the algorithms
+### Compile the algorithm
 
 cd algorithm && make all
 
@@ -38,7 +38,7 @@ fesif: the FESI algorithm in the paper
 
 chst: the algorithm of constructing an HST
 
-### Run the algorithms
+### Run the algorithm
 
 **1. First randomly construct several indexes of HST**  
 cd ../dataset && python batchRunHST.py   
