@@ -67,9 +67,13 @@ Python: 2.7
 
 ### Run the scripts
 
+caiData: the data of our real dataset Cainiao
+
+caiHST: some samples of our HSTs for the Cainiao dataset
+
 olistData: the data of our real dataset Olist
 
-olistHST: some samples of our HSTs for the olist dataset
+olistHST: some samples of our HSTs for the Olist dataset
 
 synData: some samples of our synthetic dataset
 
@@ -81,10 +85,8 @@ batchRunHST.py: a python script to construct the HSTs
 
 batchRunSyn.py: a python script to run the experiments on synthetic datasets
 
-batchRunOlist.py: a python script to run the experiments on olist datasets
+batchRunOlist.py: a python script to run the experiments on Olist datasets
 
-
-**Cainiao dataset**: For the cainiao dataset, please request for the dataset in the [website of Tianchi](https://tianchi.aliyun.com/competition/entrance/231581/introduction), as we do not have the permit to distribute the dataset.
 
 
 
@@ -94,7 +96,7 @@ We have maintained a paper list of the studies on the shared mobility service (e
 
 
 
-Presentation Slides
+Presentation slides
 ------------------------
 VLDB20-LMD-github.ppsx is our presentation slides in VLDB 2020.
 
