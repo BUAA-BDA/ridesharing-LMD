@@ -94,6 +94,10 @@ We have maintained a paper list of the studies on the shared mobility service (e
 
 
 
+Presentation Slides
+------------------------
+VLDB20-LMD-github.ppsx is our presentation slides in VLDB 2020.
+
 
 Contact
 ------------
